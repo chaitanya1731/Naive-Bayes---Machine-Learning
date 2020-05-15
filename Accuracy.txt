@@ -1,0 +1,2 @@
+Training 	 Test_with_stopwords 	 Test_without_stopwords
+97.192225	 94.979079		 94.351464
