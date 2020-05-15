@@ -9,6 +9,6 @@ How to Compile and run the program
 Command prompt execution-
 	
 	>> python3 naive.py <training-set> <test-set> <stopwords>
-    	>> python3 naive.py train test stopwords.txt
+	>> python3 naive.py train test stopwords.txt
 
 --------------------------------------------------------------------------------------
